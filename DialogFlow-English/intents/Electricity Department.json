@@ -1,0 +1,28 @@
+{
+  "id": "4a1b1c9e-761a-4626-b998-7f868c6518ef",
+  "name": "Electricity Department",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Electricity department says that approximately 200 electricity poles will be install, out of which 100 will be solar panels. It says it will cost up to 5 millions Rupees"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521530018,
+  "fallbackIntent": false,
+  "events": []
+}

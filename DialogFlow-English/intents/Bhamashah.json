@@ -1,0 +1,29 @@
+{
+  "id": "5c960fe1-bd2f-42fa-9288-b69eb914cee1",
+  "name": "Bhamashah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bhamashah",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521527962,
+  "fallbackIntent": false,
+  "events": []
+}

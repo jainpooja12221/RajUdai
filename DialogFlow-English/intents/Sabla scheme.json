@@ -1,0 +1,29 @@
+{
+  "id": "be0bff7b-40b6-41e3-b89f-115ac290fb2c",
+  "name": "Sabla scheme",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "sabla",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521524065,
+  "fallbackIntent": false,
+  "events": []
+}

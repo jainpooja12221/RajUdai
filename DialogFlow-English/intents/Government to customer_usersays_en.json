@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dd27e8af-1f4f-4f11-9f9d-8af80028b3cc",
+    "data": [
+      {
+        "text": "I want to know about Government to Customer services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521435352
+  },
+  {
+    "id": "029b95b8-4e01-456d-b689-e2060b6b7ccf",
+    "data": [
+      {
+        "text": "What are  G2C services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521435352
+  }
+]

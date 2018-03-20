@@ -1,0 +1,49 @@
+{
+  "id": "c30a621c-b6c5-4cf6-8fb1-8e221e4bf526",
+  "name": "Schemes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "E-mitra"
+            },
+            {
+              "title": "Bhamashah"
+            },
+            {
+              "title": "Farm Loan Waiver Scheme"
+            },
+            {
+              "title": "Sundar Singh Bhandari..."
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Rajasthan government is running many services for the benefit of their citizens like e-mitra, bhamashah etc. Please tell me the name of the scheme for more assistant."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521435463,
+  "fallbackIntent": false,
+  "events": []
+}

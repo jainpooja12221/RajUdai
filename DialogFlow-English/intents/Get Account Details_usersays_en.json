@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9ce00516-a14c-47c5-bb66-135027be2532",
+    "data": [
+      {
+        "text": "i want to know about account details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579317
+  },
+  {
+    "id": "9140378e-346f-4e1c-b355-5cc16ebc60c7",
+    "data": [
+      {
+        "text": "Account details please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579222
+  },
+  {
+    "id": "1a8a8b0e-0215-4d7e-a8b1-61fe31d9edf9",
+    "data": [
+      {
+        "text": "get account details using bank account number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579222
+  },
+  {
+    "id": "5eba9633-4928-4bb6-a032-c80850aa4749",
+    "data": [
+      {
+        "text": "Get account details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579222
+  }
+]

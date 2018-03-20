@@ -1,0 +1,33 @@
+{
+  "id": "ce6957fd-da8e-493c-ab1a-019e8badae14",
+  "parentId": "7e778e22-d896-46f9-9e1d-00656fb522ba",
+  "rootParentId": "7e778e22-d896-46f9-9e1d-00656fb522ba",
+  "name": "Business to customer - yes",
+  "auto": true,
+  "contexts": [
+    "Businesstocustomer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Businesstocustomer.Businesstocustomer-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Number 1 is Payments of Bill like Airtel, Vodafone, MTS, Idea.\nNumber 2 is Ask me Doctor Services"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521481964,
+  "fallbackIntent": false,
+  "events": []
+}

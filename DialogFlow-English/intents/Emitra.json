@@ -1,0 +1,31 @@
+{
+  "id": "36ef55e7-782c-4b55-8da9-d192a1fcba89",
+  "name": "Emitra",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "emitra",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Oops...Something went wrong!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521525870,
+  "fallbackIntent": false,
+  "events": []
+}

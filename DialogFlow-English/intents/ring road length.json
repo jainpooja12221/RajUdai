@@ -1,0 +1,28 @@
+{
+  "id": "4ab9d2ec-a6a8-48e7-82eb-57770e8dba41",
+  "name": "ring road length",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ring road is 150 kilometers long"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521483381,
+  "fallbackIntent": false,
+  "events": []
+}

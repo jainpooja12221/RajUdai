@@ -1,0 +1,29 @@
+{
+  "id": "6be2c85d-3d75-4879-b5d3-f1f60d6d9fa1",
+  "name": "women empowerment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "womenEmpowerment",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521522385,
+  "fallbackIntent": false,
+  "events": []
+}

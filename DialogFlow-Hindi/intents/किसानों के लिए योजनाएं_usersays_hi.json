@@ -1,0 +1,35 @@
+[
+  {
+    "id": "e12b54e0-70b0-4fef-b5d4-b07422f223d3",
+    "data": [
+      {
+        "text": "किसानों कि योजनाएं  के बारे में बताए ।",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e666b37-9357-4a5e-9f7e-4213daad9c89",
+    "data": [
+      {
+        "text": "किसानों के लिए योजनाएं क्या है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "48d23fa7-a53b-466e-bc2c-6c0c407581e5",
+    "data": [
+      {
+        "text": "किसानों के लिए योजनाएं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

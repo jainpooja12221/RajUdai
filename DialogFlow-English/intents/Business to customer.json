@@ -1,0 +1,35 @@
+{
+  "id": "7e778e22-d896-46f9-9e1d-00656fb522ba",
+  "name": "Business to customer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "B2C",
+      "affectedContexts": [
+        {
+          "name": "Businesstocustomer-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521476543,
+  "fallbackIntent": false,
+  "events": []
+}

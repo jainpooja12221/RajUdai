@@ -1,0 +1,28 @@
+{
+  "id": "6839076b-3c25-4abc-8484-7c5fe40225c8",
+  "name": "Ring road elecricity poles",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "approximately 200 electricity polls will be install out of which 100 will be solar panels."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521529725,
+  "fallbackIntent": false,
+  "events": []
+}

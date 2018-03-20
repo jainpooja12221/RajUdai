@@ -1,0 +1,185 @@
+[
+  {
+    "id": "43cc69da-2de7-459f-ba39-6a217804bcc2",
+    "data": [
+      {
+        "text": "money for ring road construction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521530901
+  },
+  {
+    "id": "9d1e3fa1-5dd8-4cf3-82d1-a5c38bec6637",
+    "data": [
+      {
+        "text": "total amount for ring road construction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521530901
+  },
+  {
+    "id": "76d4a9b6-6ad7-4ee8-8f2e-02d591016b4f",
+    "data": [
+      {
+        "text": "what is the total amount require to ",
+        "userDefined": false
+      },
+      {
+        "text": "construct ring road",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521530901
+  },
+  {
+    "id": "429d29b8-c7dc-4118-a597-b12a47a34cd5",
+    "data": [
+      {
+        "text": "Total amount in ",
+        "userDefined": false
+      },
+      {
+        "text": "ring road",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " construction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521530901
+  },
+  {
+    "id": "6edbeb75-6806-44bb-a7df-5c750621809b",
+    "data": [
+      {
+        "text": "amount needed to ",
+        "userDefined": false
+      },
+      {
+        "text": "construct ring road",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521530901
+  },
+  {
+    "id": "1861b808-accc-49f9-bde8-bb4355dc354d",
+    "data": [
+      {
+        "text": "how much money has sanction for road  development?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521484450
+  },
+  {
+    "id": "fd1b9bf8-d66d-49bb-80ca-f9988ce5803a",
+    "data": [
+      {
+        "text": "what is its total cost of development",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521484450
+  },
+  {
+    "id": "8a423fe2-c973-4b47-9634-2920974b032d",
+    "data": [
+      {
+        "text": "ring road development cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521484450
+  },
+  {
+    "id": "23b9678f-e885-4a67-9168-c7cda0b597fa",
+    "data": [
+      {
+        "text": "how much ring road development will cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521484450
+  },
+  {
+    "id": "71c2b7fc-4430-4354-8fef-6e8e61dea988",
+    "data": [
+      {
+        "text": "sanction money for ring road development",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521484450
+  },
+  {
+    "id": "b766ad82-10ee-43b6-8fbf-ee7c021ba468",
+    "data": [
+      {
+        "text": "total cost of development of ring road",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521484450
+  },
+  {
+    "id": "4bc1fdf3-3158-42c1-915f-b816b49825b0",
+    "data": [
+      {
+        "text": "how much money has sanction for its development?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521484450
+  },
+  {
+    "id": "23cd9d34-258e-48c2-8cd7-724d881a694c",
+    "data": [
+      {
+        "text": "how much money will be going to spend in ring road construction?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521484450
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "65767f7d-2d65-40ea-a336-f826c2b1cf4e",
+  "name": "Ring road construction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In Phase I \u0026 II, a road with a length of 47 km will be constructed in the south of Jaipur, connecting Ajmer Road, Tonk Road and Agra Road. In Phase III, a road with a length of 97.75 km will be constructed in the northern part of Jaipur and will connect Agra Road, Delhi Road, Sikar Road and Ajmer Road... Ring road will consist of a six-lane access controlled expressway; a three-lane service road on both sides; a 135 m R\u0026R and an investors\u0027 development corridor on both sides. The road is envisaged as a toll-free and signal free expressway."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521487784,
+  "fallbackIntent": false,
+  "events": []
+}

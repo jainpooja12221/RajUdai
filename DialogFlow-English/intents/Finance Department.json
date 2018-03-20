@@ -1,0 +1,28 @@
+{
+  "id": "2161dbaa-20f8-466c-8c17-e7d8290ead5c",
+  "name": "Finance Department",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Finance department has sanction 1200 crore rupees for Jaipur ring road construction."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521531013,
+  "fallbackIntent": false,
+  "events": []
+}

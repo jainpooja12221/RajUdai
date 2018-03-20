@@ -1,0 +1,35 @@
+{
+  "id": "3a4f1c6b-a7fe-4c81-b170-79c1dff1602e",
+  "name": "Government to customer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "G2C",
+      "affectedContexts": [
+        {
+          "name": "Governmenttocustomer-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521435597,
+  "fallbackIntent": false,
+  "events": []
+}

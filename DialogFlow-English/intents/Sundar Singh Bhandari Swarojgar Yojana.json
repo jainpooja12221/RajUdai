@@ -1,0 +1,29 @@
+{
+  "id": "33df2c56-cfbd-466f-8499-744b4d16811a",
+  "name": "Sundar Singh Bhandari Swarojgar Yojana",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ssbsy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521439359,
+  "fallbackIntent": false,
+  "events": []
+}

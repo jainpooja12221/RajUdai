@@ -1,0 +1,28 @@
+{
+  "id": "3da257ed-5e81-4f75-9cc1-f67f3d71ce0d",
+  "name": "PWD department",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "PWD department says the Jaipur Ring Road will be a 150 kilometre, 6 lane road which will allow the vehicle to pass by speeds up to 120 km/h. Till date they have made 70 kilometres long road by using 800  crores rupees. \nIt has given estimated date of completion as approximately 15 months from now."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521530093,
+  "fallbackIntent": false,
+  "events": []
+}

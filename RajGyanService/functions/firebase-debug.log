@@ -1,0 +1,54 @@
+[debug] [2018-03-20T10:08:28.829Z] ----------------------------------------------------------------------
+[debug] [2018-03-20T10:08:28.829Z] Command:       D:\Program Files\nodejs\node.exe C:\Users\himan\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy --only functions
+[debug] [2018-03-20T10:08:28.829Z] CLI Version:   3.17.6
+[debug] [2018-03-20T10:08:28.829Z] Platform:      win32
+[debug] [2018-03-20T10:08:28.829Z] Node Version:  v9.6.1
+[debug] [2018-03-20T10:08:28.829Z] Time:          Tue Mar 20 2018 15:38:28 GMT+0530 (India Standard Time)
+[debug] [2018-03-20T10:08:28.829Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-20T10:08:28.844Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-20T10:08:28.844Z] > authorizing via signed-in user
+[debug] [2018-03-20T10:08:28.844Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/rajgyan-4b908  
+  
+ Tue Mar 20 2018 15:38:28 GMT+0530 (India Standard Time)
+[debug] [2018-03-20T10:08:29.782Z] Error: read ECONNRESET
+    at _errnoException (util.js:1003:13)
+    at TLSWrap.onread (net.js:611:25)
+[error] 
+[error] Error: Server Error. read ECONNRESET
+[debug] [2018-03-20T10:09:33.984Z] ----------------------------------------------------------------------
+[debug] [2018-03-20T10:09:33.984Z] Command:       D:\Program Files\nodejs\node.exe C:\Users\himan\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy --only functions
+[debug] [2018-03-20T10:09:33.984Z] CLI Version:   3.17.6
+[debug] [2018-03-20T10:09:33.984Z] Platform:      win32
+[debug] [2018-03-20T10:09:33.984Z] Node Version:  v9.6.1
+[debug] [2018-03-20T10:09:33.984Z] Time:          Tue Mar 20 2018 15:39:33 GMT+0530 (India Standard Time)
+[debug] [2018-03-20T10:09:33.984Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-20T10:09:33.999Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-20T10:09:33.999Z] > authorizing via signed-in user
+[debug] [2018-03-20T10:09:33.999Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/rajgyan-4b908  
+  
+ Tue Mar 20 2018 15:39:33 GMT+0530 (India Standard Time)
+[debug] [2018-03-20T10:09:34.890Z] Error: read ECONNRESET
+    at _errnoException (util.js:1003:13)
+    at TLSWrap.onread (net.js:611:25)
+[error] 
+[error] Error: Server Error. read ECONNRESET
+[debug] [2018-03-20T10:11:41.063Z] ----------------------------------------------------------------------
+[debug] [2018-03-20T10:11:41.063Z] Command:       D:\Program Files\nodejs\node.exe C:\Users\himan\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy --only functions
+[debug] [2018-03-20T10:11:41.063Z] CLI Version:   3.17.6
+[debug] [2018-03-20T10:11:41.063Z] Platform:      win32
+[debug] [2018-03-20T10:11:41.063Z] Node Version:  v9.6.1
+[debug] [2018-03-20T10:11:41.063Z] Time:          Tue Mar 20 2018 15:41:41 GMT+0530 (India Standard Time)
+[debug] [2018-03-20T10:11:41.063Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-20T10:11:41.079Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-20T10:11:41.079Z] > authorizing via signed-in user
+[debug] [2018-03-20T10:11:41.079Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/rajgyan-4b908  
+  
+ Tue Mar 20 2018 15:41:41 GMT+0530 (India Standard Time)
+[debug] [2018-03-20T10:11:41.969Z] Error: read ECONNRESET
+    at _errnoException (util.js:1003:13)
+    at TLSWrap.onread (net.js:611:25)
+[error] 
+[error] Error: Server Error. read ECONNRESET

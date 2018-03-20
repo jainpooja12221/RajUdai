@@ -1,0 +1,28 @@
+{
+  "id": "a997a80f-6e62-4d18-8b11-697a2fc82768",
+  "name": "Benefits of Emitra",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The benefits of Emitra are... Number 1 is Real-time, transparent online systems for better visibility to all \nNumber 2 is Anytime-Anywhere-Service that means services that are available at different platforms like web, mobile, kiosk…..  hence it reduces cost of travel and saves time."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521475409,
+  "fallbackIntent": false,
+  "events": []
+}

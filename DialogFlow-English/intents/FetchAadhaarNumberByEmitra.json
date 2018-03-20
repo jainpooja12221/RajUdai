@@ -1,0 +1,44 @@
+{
+  "id": "ccb23eba-0396-42f9-809b-66e48a78cda4",
+  "name": "FetchAadhaarNumberByEmitra",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ShowAadhaarNumberByEmitra",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "684135ef-33dd-4089-87a3-001b8f2aaaf9",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "BamahId",
+          "value": "$BamahId",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter Bhamashah Id"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Oops...!!!!!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521547754,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "c752535e-c046-4b44-a487-0cfcf75d51b0",
+    "data": [
+      {
+        "text": "नमस्ते",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e93a9097-508c-4015-a4d0-6b7114c7e173",
+    "data": [
+      {
+        "text": "नमस्कार",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

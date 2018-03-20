@@ -1,0 +1,34 @@
+{
+  "id": "463d8cac-43d6-411b-a66e-c7820d3932b7",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "खम्मा घणी!!  राज ज्ञान  में आपका स्वागत है। मैं आपको राजस्थान सरकार की योजनाएं और विभाग सेवाओ की जानकारी  दे सकती हूं।"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "00ce058d-c1bf-4ff1-a7a1-7af5ded3ad2c",
+  "name": "Jaipur ring road project",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Jaipur Outer Ring Road is a 150 kilometer, 6 lane ring road encircling the City of Jaipur, Rajasthan, India. It is built by Jaipur Development Authority. The expressway is designed for speeds up to 120 km/h."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521482509,
+  "fallbackIntent": false,
+  "events": []
+}

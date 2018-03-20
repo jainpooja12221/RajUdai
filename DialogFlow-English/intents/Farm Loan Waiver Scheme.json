@@ -1,0 +1,29 @@
+{
+  "id": "45fcdc06-debc-41fb-9475-f97ec911a044",
+  "name": "Farm Loan Waiver Scheme",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flws",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521442059,
+  "fallbackIntent": false,
+  "events": []
+}

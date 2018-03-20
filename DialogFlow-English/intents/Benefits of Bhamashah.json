@@ -1,0 +1,28 @@
+{
+  "id": "3c2a51b5-0d63-467e-b77c-fd1dc42bb07a",
+  "name": "Benefits of Bhamashah",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Bhamashah plays important role to make rajasthan citizen life better. Some of its benefits are... number 1 is Ensuring empowerment and independence of women \nNumber 2 is Financial inclusion for all sections of the society \nNumber 3 is End-to-end service delivery platform for cash and non-cash benefits with complete transparency and real-time delivery \nNumber 4 is Closer-to-home banking services for citizens"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521476234,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "445f1daf-d119-46d2-be6c-8b8395519d7f",
+  "parentId": "3a4f1c6b-a7fe-4c81-b170-79c1dff1602e",
+  "rootParentId": "3a4f1c6b-a7fe-4c81-b170-79c1dff1602e",
+  "name": "Government to customer - yes",
+  "auto": true,
+  "contexts": [
+    "Governmenttocustomer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Governmenttocustomer.Governmenttocustomer-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Number 1 is Pension Department: This service provides facility of Medical bill reimbursement for pensioners through e-Treasury and medical bill reimbursement limit extension. Number 2 is Transport Department: This service provides facility of Deposition of fees for learner’s driving licence, new driving licence, renewal of driving licence, duplicate licence, additional of new category, international driving permit and vehicle registration."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521474714,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b30f4182-580f-4b01-9643-d164b1cdaecc",
+  "parentId": "7e778e22-d896-46f9-9e1d-00656fb522ba",
+  "rootParentId": "7e778e22-d896-46f9-9e1d-00656fb522ba",
+  "name": "Business to customer - no",
+  "auto": true,
+  "contexts": [
+    "Businesstocustomer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Businesstocustomer.Businesstocustomer-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It\u0027s ok"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521553029,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c417ba97-103d-43cd-8b4e-65be0881d5e5",
+  "name": "Ring road development",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "right now it is under construction...  approximately it will be completed in 15 months, as per available data."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521528712,
+  "fallbackIntent": false,
+  "events": []
+}

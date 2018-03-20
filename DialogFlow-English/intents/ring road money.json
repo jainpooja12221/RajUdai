@@ -1,0 +1,28 @@
+{
+  "id": "958caea7-86ab-413e-b495-24a9babb4de5",
+  "name": "ring road money",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The approx amount of construction is 1200 crore rupees"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521530901,
+  "fallbackIntent": false,
+  "events": []
+}

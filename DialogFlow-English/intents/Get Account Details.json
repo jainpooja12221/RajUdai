@@ -1,0 +1,44 @@
+{
+  "id": "1810d3d0-16d2-4bca-ab18-b93d24c6618e",
+  "name": "Get Account Details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GetAccountDetails",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "40949cb5-95c0-48d6-ab3f-1ad2c232243b",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "AccountNumber",
+          "value": "$AccountNumber",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me account number"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521579317,
+  "fallbackIntent": false,
+  "events": []
+}

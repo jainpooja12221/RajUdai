@@ -1,0 +1,28 @@
+{
+  "id": "a97a8aa2-84cc-4f4a-84f6-2316208ea8dd",
+  "name": "Departmental Services",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Tell me the name of the project, for which you want departmental information?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521528408,
+  "fallbackIntent": false,
+  "events": []
+}
